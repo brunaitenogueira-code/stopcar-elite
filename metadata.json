@@ -1,0 +1,8 @@
+
+{
+  "name": "StopCar Elite - Lido",
+  "description": "Sistema de gestão automotiva para a StopCar, com histórico de veículos, orçamentos e agenda de retornos programados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
